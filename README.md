@@ -2,10 +2,6 @@ A small HR Chatbot demo built using Azure Bot service.
 
 This bot has been created using [Bot Framework][1], it shows how to create a simple bot that accepts input from the user and provide answer based on the QnA maker.
 
-
-## Getting Additional Help with Deploying to Azure
-To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40] for a complete list of deployment instructions.
-
 # Further reading
 - [Bot Framework Documentation][20]
 - [Bot Basics][32]
