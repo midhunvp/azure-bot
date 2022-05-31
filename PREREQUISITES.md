@@ -9,4 +9,4 @@
     # install msbot CLI tool
     npm install -g msbot
     ```
-    - ngrok (only if needed).
+- ngrok (only if needed).
