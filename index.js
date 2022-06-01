@@ -57,7 +57,7 @@ const endpointConfig = botConfig.findServiceByNameOrId(BOT_CONFIGURATION);
 
 const qnaServices = [];
 botConfig.services.map(service => {
-  if(service.type == "HRChatBot") {
+  if(service.type == "chatbot") {
       const endpoint = {
           knowledgeBaseId: service.kbId,
           endpointKey: service.endpointKey,
