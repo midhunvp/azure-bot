@@ -10,12 +10,12 @@
             "id": "1"
         },
         {
-            "type": "HRChatBot",
-            "name": "HRChatBotDemo",
-            "kbId": "5d7d94ba-f7b7-49d4-84a5-08befc72a161",
-            "hostname": "https://hrchatbotdemo.azurewebsites.net/qnamaker",
-            "endpointKey": "387c8536-0e8c-4dd7-aefc-22c360a27442",
-            "subscriptionKey": "e3081174-6420-4ce2-84bb-bc8be2b4c9e1",
+            "type": "chatbot",
+            "name": "hrchatbot",
+            "kbId": "",
+            "hostname": "",
+            "endpointKey": "",
+            "subscriptionKey": "",
             "id": "123"
         }  
         
